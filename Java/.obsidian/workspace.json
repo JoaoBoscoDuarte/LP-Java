@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "156cf5d31e33b5be",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcdb71653207a19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c041ced1dfd0b2ca",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "javaBasico/mark/Datas e horas/Pasted image 20250306013455.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250306013455"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d2beead6da06ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f4ceb74250de10e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca9805d6ced2a52c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a4491038d465a00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a44b44630acb5dbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ebec7593631b1b63",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f90a65d842a2735",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df4b691e78503faf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "javaBasico/mark/Datas e horas/Data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Data"
+            }
+          },
+          {
+            "id": "c75de4dc081f23d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "javaBasico/mark/Datas e horas/Data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Data"
+            }
+          },
+          {
+            "id": "cb602f213d737cfd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7587c0a592f14e37",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "javaBasico/mark/Datas e horas/Data.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Data"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ca9805d6ced2a52c",
+  "lastOpenFiles": [
+    "javaBasico/mark/Enumerações e composições",
+    "javaBasico/mark/Datas e horas/Pasted image 20250306013455.png",
+    "javaBasico/mark/Listas, ArrayList e collections/2. ArrayList.md",
+    "javaBasico/mark/Datas e horas/Data.md",
+    "javaBasico/mark/Datas e horas",
+    "javaBasico/mark/Listas, ArrayList e collections/1. List.md",
+    "javaBasico/mark/2. Hello world.md",
+    "javaBasico/mark/3. Constantes, variáveis e métodos.md",
+    "javaBasico/mark/7. Switch-Case.md",
+    "javaBasico/mark/Listas, ArrayList e collections",
+    "javaBasico/mark/img/Untitled",
+    "javaBasico/mark/6. Arrays Multidimensionais.md",
+    "javaBasico/mark/5. Arrays.md",
+    "javaBasico/mark/4. Ternários, condicionais e tipos de dados.md",
+    "javaBasico/mark/1. Diretorios.md"
+  ]
+}
