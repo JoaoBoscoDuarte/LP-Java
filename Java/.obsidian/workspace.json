@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "edcdb71653207a19",
+        "id": "1f71cdeda265fdb5",
         "type": "tabs",
         "children": [
           {
-            "id": "c041ced1dfd0b2ca",
+            "id": "da3061a5984f66e9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "javaBasico/mark/Datas e horas/Pasted image 20250306013455.png"
+                "file": "poo/mark/4. Interface e polimorfismo de tipo/1. Interface.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250306013455"
+              "icon": "lucide-file",
+              "title": "1. Interface"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ebec7593631b1b63",
@@ -160,14 +163,16 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "ca9805d6ced2a52c",
+  "active": "da3061a5984f66e9",
   "lastOpenFiles": [
+    "poo/mark/4. Interface e polimorfismo de tipo/1. Interface.md",
+    "poo/mark/4. Interface e polimorfismo de tipo",
     "javaBasico/mark/Enumerações e composições",
     "javaBasico/mark/Datas e horas/Pasted image 20250306013455.png",
     "javaBasico/mark/Listas, ArrayList e collections/2. ArrayList.md",

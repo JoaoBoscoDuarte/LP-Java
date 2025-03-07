@@ -7,6 +7,7 @@ public class Drone implements Voador {
     public Drone(String tipo) {
         this.tipo = tipo;
     }
+    
     public String getTipo() {
         return tipo;
     }
