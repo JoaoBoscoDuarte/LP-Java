@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LP-Java.iml" filepath="$PROJECT_DIR$/.idea/LP-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/poo/exemplosPOO/exemplosPOO.iml" filepath="$PROJECT_DIR$/Java/poo/exemplosPOO/exemplosPOO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/poo/exemplosPOO/src/exemplosPOO2.iml" filepath="$PROJECT_DIR$/Java/poo/exemplosPOO/src/exemplosPOO2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java/poo/exemplosPOO/src/tddCadastro/tddCadastro.iml" filepath="$PROJECT_DIR$/Java/poo/exemplosPOO/src/tddCadastro/tddCadastro.iml" />
     </modules>
   </component>
 </project>
