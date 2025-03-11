@@ -6,14 +6,6 @@ public class PasseioDeLancha implements VendaDeTurismoIF {
     public final double PRECO_POR_PESSOA = 60;
 
     public PasseioDeLancha(int qtdeDeHoras, int numeroDePessoas) {
-        if (qtdeDeHoras < 1 && qtdeDeHoras > 10) {
-            throw new IllegalArgumentException("O tempo deve ser no mínimo 1 hora e no máximo 10h!");
-        }
-
-        if (numeroDePessoas < 1) {
-            throw new IllegalArgumentException("Deve ter no mínimo 1 pessoa!");
-        }
-
         this.numeroDePessoas = numeroDePessoas;
         this.qtdeDeHoras = qtdeDeHoras;
     }
@@ -23,6 +15,9 @@ public class PasseioDeLancha implements VendaDeTurismoIF {
     }
 
     public void setNumeroDePessoas(int novaQtde) {
+         if (numeroDePessoas < 1) {
+            throw new IllegalArgumentException("Deve ter no mínimo 1 pessoa!");
+        }
         this.numeroDePessoas = novaQtde;
     }
 
@@ -31,6 +26,9 @@ public class PasseioDeLancha implements VendaDeTurismoIF {
     }
 
     public void setQtdeDeHoras(int novaQtde) {
+        if (qtdeDeHoras < 1 && qtdeDeHoras > 10) {
+            throw new IllegalArgumentException("O tempo deve ser no mínimo 1 hora e no máximo 10h!");
+        }
         this.qtdeDeHoras = novaQtde;
     }
 
