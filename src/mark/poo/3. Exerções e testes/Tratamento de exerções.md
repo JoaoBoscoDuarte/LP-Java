@@ -6,7 +6,7 @@ Em Java, uma exceção é um objeto herdado da classe:
 
 Quando lançada, uma exceção é propagada na pilha de chamadas de métodos em execução, até que seja capturada (tratada) ou o programa seja encerrado.
 ## Hierarquia de execuções em Java
-![[Pasted image 20250209225432.png]]
+![](mark/poo/img/Pasted_image_20250209225432.png)
 - Error - Erros que o programador não consegue tratar (por exemplo, erros do compilador);
 - Exception - Erros que nem sempre serão tratadas
 
