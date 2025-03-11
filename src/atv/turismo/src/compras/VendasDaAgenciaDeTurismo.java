@@ -12,6 +12,10 @@ public class VendasDaAgenciaDeTurismo {
     }
 
     public double getPrecoDeVenda(int posicao) {
+        if (posicao < 0 || posicao >= vendas.size()) {
+            throw new IndexOutOfBoundsException("Índice inválido.");
+        }
+        
         return vendas.get(posicao).getPreco();
     }
 
