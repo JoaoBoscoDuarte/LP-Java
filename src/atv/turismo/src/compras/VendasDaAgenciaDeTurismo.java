@@ -8,7 +8,7 @@ public class VendasDaAgenciaDeTurismo {
 
     public int adicionaVenda(VendaDeTurismoIF item) {
         vendas.add(item);
-        return 0;
+        return vendas.indexOf(item);
     }
 
     public double getPrecoDeVenda(int posicao) {
@@ -26,6 +26,11 @@ public class VendasDaAgenciaDeTurismo {
     }
 
     public String listagemDeVendas() {
-        return vendas.toString();
+        String resultado = "";
+        for (VendaDeTurismoIF venda : vendas) {
+            resultado += venda.getDescricao() + "/n";
+        }
+
+        return resultado;
     }
 }

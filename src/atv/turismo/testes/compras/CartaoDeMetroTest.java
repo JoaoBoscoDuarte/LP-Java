@@ -3,6 +3,7 @@ package atv.turismo.testes.compras;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.fail;
 
+import atv.turismo.src.compras.CartaoDeMetro;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

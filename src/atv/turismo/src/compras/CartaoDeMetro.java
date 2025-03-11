@@ -26,7 +26,7 @@ public class CartaoDeMetro implements VendaDeTurismoIF{
 
     public double getPreco() {
         if (qtdeViagens < 20) {
-            return VALOR_DE_UMA_VIAGEM * qtdeViagens;
+            return (VALOR_DE_UMA_VIAGEM * qtdeViagens) - (VALOR_DE_UMA_VIAGEM * qtdeViagens * 0.2);
 
         } else {
             return VALOR_DE_UMA_VIAGEM * qtdeViagens * 0.8;
