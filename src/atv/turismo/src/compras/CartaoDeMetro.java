@@ -43,4 +43,9 @@ public class CartaoDeMetro implements VendaDeTurismoIF{
                 "qtdeViagens=" + qtdeViagens +
                 ']';
     }
+
+    @Override
+    public int compareTo(VendaDeTurismoIF o) {
+        return Double.compare(this.getPreco(), o.getPreco());
+    }
 }

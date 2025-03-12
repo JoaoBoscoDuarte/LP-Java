@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8690fca-9bdf-4629-861b-63c83251a9f6" name="Changes" comment="&quot;Teste pre prova lp&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/LP-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LP-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atv/tddCadastro/src/Cadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atv/tddCadastro/src/Cadastro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/atv/turismo/src/compras/CartaoDeMetro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atv/turismo/src/compras/CartaoDeMetro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atv/turismo/src/compras/IngressoEvento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atv/turismo/src/compras/IngressoEvento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/atv/turismo/src/compras/PasseioDeLancha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atv/turismo/src/compras/PasseioDeLancha.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/atv/turismo/src/compras/VendaDeTurismoIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atv/turismo/src/compras/VendaDeTurismoIF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/atv/turismo/src/compras/VendasDaAgenciaDeTurismo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atv/turismo/src/compras/VendasDaAgenciaDeTurismo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/atv/turismo/testes/compras/CartaoDeMetroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/atv/turismo/testes/compras/CartaoDeMetroTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mark/poo/3. Exerções e testes/Tratamento de exerções.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mark/poo/3. Exerções e testes/Tratamento de exerções.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mark/poo/4. Interface e polimorfismo de tipo/1. Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mark/poo/4. Interface e polimorfismo de tipo/1. Interface.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mark/poo/4. Interface e polimorfismo de tipo/2. Polimorfismo.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mark/poo/4. Interface e polimorfismo de tipo/2. Polimorfismo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mark/poo/4. Interface e polimorfismo de tipo/3. Polimorfismo e interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mark/poo/4. Interface e polimorfismo de tipo/3. Polimorfismo e interface.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mark/poo/4. Interface e polimorfismo de tipo/4. Chamadas polimórficas.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mark/poo/4. Interface e polimorfismo de tipo/4. Chamadas polimórficas.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +69,9 @@
     &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/bosco/Downloads/Interfaces&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -129,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741661226022</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Teste pre prova lp&quot;">
+      <option name="closed" value="true" />
+      <created>1741663280341</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741663280341</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

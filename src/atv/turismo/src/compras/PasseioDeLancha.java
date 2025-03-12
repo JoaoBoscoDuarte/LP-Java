@@ -52,4 +52,9 @@ public class PasseioDeLancha implements VendaDeTurismoIF {
         return "Número de pessoas na viagem: " + numeroDePessoas + "\n" +
                 "Preço da viagem: " + getPreco() + "/n";
     }
+
+    @Override
+    public int compareTo(VendaDeTurismoIF o) {
+        return Double.compare(this.getPreco(), o.getPreco());
+    }
 }

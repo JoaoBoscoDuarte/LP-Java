@@ -99,4 +99,8 @@ public class IngressoEvento implements VendaDeTurismoIF {
                 + " ingressos meia entrada para o evento " + getTipo() + ".";
     }
 
+    @Override
+    public int compareTo(VendaDeTurismoIF o) {
+        return Double.compare(this.getPreco(), o.getPreco());
+    }
 }
