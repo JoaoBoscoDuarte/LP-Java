@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poo/4. Interface e polimorfismo de tipo/5. Comparable e Comparator.md",
+                "file": "poo/6. Herança e polimorfismo/4. Upcasting e Downcasting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Comparable e Comparator"
+              "title": "4. Upcasting e Downcasting"
             }
           }
         ]
@@ -170,10 +170,18 @@
   },
   "active": "e87fe68ff7bf4326",
   "lastOpenFiles": [
+    "poo/6. Herança e polimorfismo/3. Super.md",
+    "poo/6. Herança e polimorfismo/4. Upcasting e Downcasting.md",
+    "poo/6. Herança e polimorfismo/2. Modificadores de acesso e herança.md",
+    "poo/6. Herança e polimorfismo/1. Herança.md",
+    "poo/5. Enumerações e composições/2. Composições.md",
+    "poo/6. Herança e polimorfismo",
+    "poo/5. Enumerações e composições/1. Enumerações.md",
+    "poo/4. Interface e polimorfismo de tipo/5. Comparable e Comparator.md",
+    "poo/5. Enumerações e composições",
     "poo/img/Pasted_image_20250209225432.png",
     "poo/img/Pasted image 20250209225432.png",
     "poo/4. Interface e polimorfismo de tipo/4. Chamadas polimórficas.md",
-    "poo/4. Interface e polimorfismo de tipo/5. Comparable e Comparator.md",
     "poo/4. Interface e polimorfismo de tipo/3. Polimorfismo e interface.md",
     "poo/4. Interface e polimorfismo de tipo/1. Interface.md",
     "poo/4. Interface e polimorfismo de tipo/2. Polimorfismo.md",
