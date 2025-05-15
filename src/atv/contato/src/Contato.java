@@ -1,4 +1,4 @@
-package atividades.contato.src;
+package atv.contato.src;
 
 import java.time.LocalDate;
 
